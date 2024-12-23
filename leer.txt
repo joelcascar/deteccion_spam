@@ -1,0 +1,1 @@
+Para utilizar el dataset lo debemos de descomprimir en la carpeta de Jumpyter Notebook.
