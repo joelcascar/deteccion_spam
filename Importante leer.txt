@@ -1,0 +1,1 @@
+Para utilizar el dataset trec07p y que funcione el proyecto lo debemos de descomprimir en la carpeta actual.
